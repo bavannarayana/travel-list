@@ -1,3 +1,38 @@
+# 🧳 Travel List
+
+A simple and interactive travel checklist app built with **React**, **CSS**, and **Create React App (CRA)**. Easily plan your trips by adding, checking, and removing destinations or travel items!
+
+---
+
+## ✨ Features
+
+- ✅ Add items to your travel list
+- ✏️ Mark items as completed (ticked)
+- ❌ Remove items from the list
+- ♻️ Interactive UI with real-time updates
+- 💡 Clean and modern design using plain CSS
+
+---
+
+## 🚀 Tech Stack
+
+- **React** (via Create React App)
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/bavannarayana/travel-list.git
+   cd travel-list
+
+   ```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
